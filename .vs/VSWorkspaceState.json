@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\router",
+    "\\router\\view",
+    "\\router\\view\\templates",
+    "\\router\\view\\templates\\scripts",
+    "\\server"
+  ],
+  "SelectedNode": "\\main.go",
+  "PreviewInSolutionExplorer": false
+}
